@@ -1,9 +1,9 @@
 {
   "name": "base-newapp",
   "version": "0.1.0",
-  "keywords": "reactjs, tailwindcss, just-in-time-mode, jit, base-newapp, utility-first, Полезность прежде всего, Адаптивный дизайн,  "
+  "keywords": "reactjs, tailwindcss, just-in-time-mode, jit, base-newapp, utility-first, Полезность прежде всего, Адаптивный дизайн ",
   "private": true,
-  "author": "Turovkiy Alex <alexturik@gmail.com> (https://github.com/turovskiy)"
+  "author": "Turovkiy Alex <alexturik@gmail.com> (https://github.com/turovskiy)",
   "homepage": "https://github.com/turovskiy/REACT-TAILWINDCSS-JIT",
   "dependencies": {
     "@craco/craco": "^6.3.0",
